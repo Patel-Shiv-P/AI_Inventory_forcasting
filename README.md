@@ -162,4 +162,5 @@ Some filenames preserve their original spelling in this beginner project.
 - Add business constraints such as minimum order quantities, pack sizes, budgets, and supplier calendars.
 - Deploy the Streamlit app only after validating its behavior and data handling.
 
-Live demo: https://aiinventoryforcasting-qmvk6y54gdbekgafh3agmq.streamlit.app/
+# Live demo: 
+Link: https://aiinventoryforcasting-qmvk6y54gdbekgafh3agmq.streamlit.app/
