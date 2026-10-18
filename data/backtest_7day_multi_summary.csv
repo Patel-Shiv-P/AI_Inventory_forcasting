@@ -1,0 +1,2 @@
+store,item,forecast_days,baseline_mae,random_forest_mae,baseline_rmse,random_forest_rmse,mae_improvement_percent,random_forest_wins
+8,12,366,12.587431693989071,10.509984387197502,15.499427100288528,12.86911313245645,16.504139663245372,True
