@@ -161,3 +161,5 @@ Some filenames preserve their original spelling in this beginner project.
 - Tune safety stock using demand and lead-time variability.
 - Add business constraints such as minimum order quantities, pack sizes, budgets, and supplier calendars.
 - Deploy the Streamlit app only after validating its behavior and data handling.
+
+Live demo: https://aiinventoryforcasting-qmvk6y54gdbekgafh3agmq.streamlit.app/
